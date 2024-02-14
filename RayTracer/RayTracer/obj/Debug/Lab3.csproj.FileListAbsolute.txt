@@ -1,0 +1,33 @@
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\System.Drawing.Common.dll
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\System.Drawing.Common.pdb
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\System.Drawing.Common.xml
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\tufar\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\System.Drawing.Common.dll
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\System.Drawing.Common.pdb
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\System.Drawing.Common.xml
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\tufar\OneDrive - Universitatea Babeş-Bolyai\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\System.Drawing.Common.dll
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\System.Drawing.Common.pdb
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\bin\Debug\System.Drawing.Common.xml
+D:\Desktop\Faculty\Year 3\Semester 1\VR\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.CopyComplete
